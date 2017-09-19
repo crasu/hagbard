@@ -7,27 +7,26 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="263.46918mm"
-   height="201.34491mm"
-   viewBox="0 0 263.46917 201.3449"
+   width="265.2mm"
+   height="165.2mm"
+   viewBox="0 0 265.2 165.2"
    version="1.1"
-   id="svg225"
+   id="svg203"
    sodipodi:docname="frontplatte.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
-     id="metadata231">
+     id="metadata209">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs229" />
+     id="defs207" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -39,631 +38,681 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1855"
      inkscape:window-height="1056"
-     id="namedview227"
+     id="namedview205"
      showgrid="false"
-     inkscape:zoom="0.69472859"
-     inkscape:cx="135.58233"
-     inkscape:cy="500.58026"
+     inkscape:zoom="0.86912983"
+     inkscape:cx="526.23257"
+     inkscape:cy="355.49321"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg225"
-     fit-margin-top="2.6"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0" />
+     inkscape:current-layer="svg203" />
   <g
-     id="Face"
-     transform="matrix(1,0,0,-1,0.175,172.77524)">
+     id="Rectangle"
+     transform="translate(2.600000,162.600000) scale(1,-1)">
     <path
-       id="Face_f0000"
-       d="m 230,0 v 140 a 30,30 0 0 1 -30,30 H 30 A 30,30 0 0 1 0,140 V 0 Z"
-       style="fill:#cccccc;fill-rule:evenodd;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-       inkscape:connector-curvature="0" />
+       id="Rectangle_f0000"
+       d="M 260.0 7.96020419444e-15 L 260.0 160.0 L -4.89858719658e-15 160.0 L 0.0 0.0 L 260.0 7.96020419444e-15 Z "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-rule: evenodd " />
     <title
-       id="title207">Face</title>
-  </g>
-  <g
-     id="Circle001"
-     transform="matrix(1,0,0,-1,0.175,172.77524)">
-    <circle
-       cx="23.811029"
-       cy="121.18897"
-       r="2"
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle2" />
-    <title
-       id="title4">Circle001</title>
-  </g>
-  <g
-     id="Circle002"
-     transform="matrix(1,0,0,-1,0.175,172.77524)">
-    <circle
-       cx="23.811029"
-       cy="38.811031"
-       r="2"
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle7" />
-    <title
-       id="title9">Circle002</title>
-  </g>
-  <g
-     id="Circle003"
-     transform="matrix(1,0,0,-1,0.175,172.77524)">
-    <circle
-       cx="106.18897"
-       cy="38.811031"
-       r="2"
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle12" />
-    <title
-       id="title14">Circle003</title>
-  </g>
-  <g
-     id="Circle004"
-     transform="matrix(1,0,0,-1,0.175,172.77524)">
-    <circle
-       cx="106.18897"
-       cy="121.18897"
-       r="2"
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle17" />
-    <title
-       id="title19">Circle004</title>
+       id="title200">Rectangle</title>
   </g>
   <g
      id="Array"
-     transform="matrix(1,0,0,-1,0.175,172.77524)">
+     transform="translate(2.600000,162.600000) scale(1,-1)">
     <circle
-       cx="35"
-       cy="50"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="45.0"
+       cy="50.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
+       id="circle2" />
+    <circle
+       cx="45.0"
+       cy="62.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
+       id="circle4" />
+    <circle
+       cx="45.0"
+       cy="74.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
+       id="circle6" />
+    <circle
+       cx="45.0"
+       cy="86.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
+       id="circle8" />
+    <circle
+       cx="45.0"
+       cy="98.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
+       id="circle10" />
+    <circle
+       cx="45.0"
+       cy="110.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
+       id="circle12" />
+    <circle
+       cx="57.0"
+       cy="50.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
+       id="circle14" />
+    <circle
+       cx="57.0"
+       cy="62.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
+       id="circle16" />
+    <circle
+       cx="57.0"
+       cy="74.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
+       id="circle18" />
+    <circle
+       cx="57.0"
+       cy="86.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
+       id="circle20" />
+    <circle
+       cx="57.0"
+       cy="98.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
        id="circle22" />
     <circle
-       cx="35"
-       cy="62"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="57.0"
+       cy="110.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
        id="circle24" />
     <circle
-       cx="35"
-       cy="74"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="69.0"
+       cy="50.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
        id="circle26" />
     <circle
-       cx="35"
-       cy="86"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="69.0"
+       cy="62.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
        id="circle28" />
     <circle
-       cx="35"
-       cy="98"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="69.0"
+       cy="74.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
        id="circle30" />
     <circle
-       cx="35"
-       cy="110"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="69.0"
+       cy="86.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
        id="circle32" />
     <circle
-       cx="47"
-       cy="50"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="69.0"
+       cy="98.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
        id="circle34" />
     <circle
-       cx="47"
-       cy="62"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="69.0"
+       cy="110.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
        id="circle36" />
     <circle
-       cx="47"
-       cy="74"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="81.0"
+       cy="50.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
        id="circle38" />
     <circle
-       cx="47"
-       cy="86"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="81.0"
+       cy="62.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
        id="circle40" />
     <circle
-       cx="47"
-       cy="98"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="81.0"
+       cy="74.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
        id="circle42" />
     <circle
-       cx="47"
-       cy="110"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="81.0"
+       cy="86.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
        id="circle44" />
     <circle
-       cx="59"
-       cy="50"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="81.0"
+       cy="98.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
        id="circle46" />
     <circle
-       cx="59"
-       cy="62"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="81.0"
+       cy="110.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
        id="circle48" />
     <circle
-       cx="59"
-       cy="74"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="93.0"
+       cy="50.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
        id="circle50" />
     <circle
-       cx="59"
-       cy="86"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="93.0"
+       cy="62.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
        id="circle52" />
     <circle
-       cx="59"
-       cy="98"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="93.0"
+       cy="74.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
        id="circle54" />
     <circle
-       cx="59"
-       cy="110"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="93.0"
+       cy="86.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
        id="circle56" />
     <circle
-       cx="71"
-       cy="50"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="93.0"
+       cy="98.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
        id="circle58" />
     <circle
-       cx="71"
-       cy="62"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="93.0"
+       cy="110.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
        id="circle60" />
     <circle
-       cx="71"
-       cy="74"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="105.0"
+       cy="50.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
        id="circle62" />
     <circle
-       cx="71"
-       cy="86"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="105.0"
+       cy="62.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
        id="circle64" />
     <circle
-       cx="71"
-       cy="98"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="105.0"
+       cy="74.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
        id="circle66" />
     <circle
-       cx="71"
-       cy="110"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="105.0"
+       cy="86.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
        id="circle68" />
     <circle
-       cx="83"
-       cy="50"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="105.0"
+       cy="98.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
        id="circle70" />
     <circle
-       cx="83"
-       cy="62"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="105.0"
+       cy="110.0"
+       r="3.0"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffff00"
        id="circle72" />
+    <title
+       id="title74">Lautsprecher Array</title>
+  </g>
+  <g
+     id="Circle001"
+     transform="translate(2.600000,162.600000) scale(1,-1)">
     <circle
-       cx="83"
-       cy="74"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle74" />
+       cx="33.8110299959"
+       cy="121.188970004"
+       r="2.0"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"
+       id="circle77" />
+    <title
+       id="title79">Circle001</title>
+  </g>
+  <g
+     id="Circle002"
+     transform="translate(2.600000,162.600000) scale(1,-1)">
     <circle
-       cx="83"
-       cy="86"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle76" />
-    <circle
-       cx="83"
-       cy="98"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle78" />
-    <circle
-       cx="83"
-       cy="110"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle80" />
-    <circle
-       cx="95"
-       cy="50"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="33.8110299959"
+       cy="38.8110299958"
+       r="2.0"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"
        id="circle82" />
+    <title
+       id="title84">Circle002</title>
+  </g>
+  <g
+     id="Circle003"
+     transform="translate(2.600000,162.600000) scale(1,-1)">
     <circle
-       cx="95"
-       cy="62"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle84" />
+       cx="116.188970004"
+       cy="38.8110299959"
+       r="2.0"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"
+       id="circle87" />
+    <title
+       id="title89">Circle003</title>
+  </g>
+  <g
+     id="Circle004"
+     transform="translate(2.600000,162.600000) scale(1,-1)">
     <circle
-       cx="95"
-       cy="74"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle86" />
-    <circle
-       cx="95"
-       cy="86"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle88" />
-    <circle
-       cx="95"
-       cy="98"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle90" />
-    <circle
-       cx="95"
-       cy="110"
-       r="3"
-       style="fill:#ffff00;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="116.188970004"
+       cy="121.188970004"
+       r="2.0"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"
        id="circle92" />
     <title
-       id="title94">Lautsprecher Array</title>
+       id="title94">Circle004</title>
   </g>
   <g
      id="Gruppe"
-     transform="matrix(1,0,0,-1,0.175,172.77524)">
+     transform="translate(2.600000,162.600000) scale(1,-1)">
     <title
        id="title97">Lautsprecher Bohrungen</title>
   </g>
   <g
      id="Circle006"
-     transform="matrix(1,0,0,-1,0.175,172.77524)">
+     transform="translate(2.600000,162.600000) scale(1,-1)">
     <circle
-       cx="145"
-       cy="95"
-       r="6"
-       style="fill:#ffaaff;stroke:#000000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="150.0"
+       cy="95.0"
+       r="6.0"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffaaff"
        id="circle100" />
     <title
        id="title102">Circle006</title>
   </g>
   <g
      id="Circle007"
-     transform="matrix(1,0,0,-1,0.175,172.77524)">
+     transform="translate(2.600000,162.600000) scale(1,-1)">
     <circle
-       cx="165"
-       cy="95"
-       r="6"
-       style="fill:#ffaaff;stroke:#000000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="175.0"
+       cy="95.0"
+       r="6.0"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffaaff"
        id="circle105" />
     <title
        id="title107">Circle007</title>
   </g>
   <g
      id="Circle008"
-     transform="matrix(1,0,0,-1,0.175,172.77524)">
+     transform="translate(2.600000,162.600000) scale(1,-1)">
     <circle
-       cx="185"
-       cy="95"
-       r="6"
-       style="fill:#ffaaff;stroke:#000000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="200.0"
+       cy="95.0"
+       r="6.0"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffaaff"
        id="circle110" />
     <title
        id="title112">Circle008</title>
   </g>
   <g
      id="Circle009"
-     transform="matrix(1,0,0,-1,0.175,172.77524)">
+     transform="translate(2.600000,162.600000) scale(1,-1)">
     <circle
-       cx="205"
-       cy="95"
-       r="6"
-       style="fill:#ffaaff;stroke:#000000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="225.0"
+       cy="95.0"
+       r="6.0"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffaaff"
        id="circle115" />
     <title
        id="title117">Circle009</title>
   </g>
   <g
      id="Gruppe001"
-     transform="matrix(1,0,0,-1,0.175,172.77524)">
+     transform="translate(2.600000,162.600000) scale(1,-1)">
     <title
        id="title120">Schalter Bohrungen</title>
   </g>
   <g
      id="Circle010"
-     transform="matrix(1,0,0,-1,0.175,172.77524)">
+     transform="translate(2.600000,162.600000) scale(1,-1)">
     <circle
-       cx="165"
-       cy="65"
-       r="6"
-       style="fill:#ffaaff;stroke:#000000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="175.0"
+       cy="65.0"
+       r="6.0"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffaaff"
        id="circle123" />
     <title
        id="title125">Circle010</title>
   </g>
   <g
      id="Circle011"
-     transform="matrix(1,0,0,-1,0.175,172.77524)">
+     transform="translate(2.600000,162.600000) scale(1,-1)">
     <circle
-       cx="145"
-       cy="65"
-       r="6"
-       style="fill:#ffaaff;stroke:#000000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="150.0"
+       cy="65.0"
+       r="6.0"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffaaff"
        id="circle128" />
     <title
        id="title130">Circle011</title>
   </g>
   <g
      id="Circle012"
-     transform="matrix(1,0,0,-1,0.175,172.77524)">
+     transform="translate(2.600000,162.600000) scale(1,-1)">
     <circle
-       cx="185"
-       cy="65"
-       r="6"
-       style="fill:#ffaaff;stroke:#000000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="200.0"
+       cy="65.0"
+       r="6.0"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffaaff"
        id="circle133" />
     <title
        id="title135">Circle012</title>
   </g>
   <g
      id="Circle013"
-     transform="matrix(1,0,0,-1,0.175,172.77524)">
+     transform="translate(2.600000,162.600000) scale(1,-1)">
     <circle
-       cx="205"
-       cy="65"
-       r="6"
-       style="fill:#ffaaff;stroke:#000000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="225.0"
+       cy="65.0"
+       r="6.0"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffaaff"
        id="circle138" />
     <title
        id="title140">Circle013</title>
   </g>
   <g
-     id="Dimension"
-     transform="matrix(1,0,0,-1,0.175,172.77524)">
+     id="Dimension002"
+     transform="translate(2.600000,162.600000) scale(1,-1)">
     <path
-       d="M 0,0 V -25.902996 H 230 V 0"
-       style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-       freecad:basepoint1="-0.0 -0.0"
-       freecad:basepoint2="230.0 -0.0"
-       freecad:dimpoint="0.0 -25.9029960632"
-       id="path143"
-       inkscape:connector-curvature="0" />
+       d="M 144.0 65.0 L 144.0 49.1860084534 L 156.0 49.1860084534 L 156.0 65.0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+       freecad:basepoint1="144.0 65.0"
+       freecad:basepoint2="156.0 65.0"
+       freecad:dimpoint="144.0 49.1860084534"
+       id="path143" />
     <path
-       transform="matrix(2.6666667,0,0,2.6666667,0,-25.902996)"
+       transform="rotate(-0.0,144.0,49.1860084534) translate(144.0,49.1860084534) scale(1.33333333333,1.33333333333)"
        freecad:skip="1"
-       style="fill:#000000;stroke:none;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 0,0 4,1 V -1 Z"
-       id="path145"
-       inkscape:connector-curvature="0" />
+       fill="#000000"
+       stroke="none"
+       style="stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 0 0 L 4 1 L 4 -1 Z"
+       id="path145" />
     <path
-       transform="matrix(-2.6666667,0,0,-2.6666667,230,-25.902996)"
+       transform="rotate(180.0,156.0,49.1860084534) translate(156.0,49.1860084534) scale(1.33333333333,1.33333333333)"
        freecad:skip="1"
-       style="fill:#000000;stroke:none;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 0,0 4,1 V -1 Z"
-       id="path147"
-       inkscape:connector-curvature="0" />
+       fill="#000000"
+       stroke="none"
+       style="stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 0 0 L 4 1 L 4 -1 Z"
+       id="path147" />
     <text
+       fill="#000000"
        font-size="6.0"
-       style="font-size:6px;font-family:Arial;text-align:center;text-anchor:middle;fill:#000000"
-       transform="matrix(1,0,0,-1,115,-21.902996)"
+       style="text-anchor:middle;text-align:center;font-family:Arial"
+       transform="rotate(-0.0,150.0,53.1860084534) translate(150.0,53.1860084534) scale(1,-1) "
        freecad:skip="1"
-       id="text149">230,0 mm</text>
+       id="text149">
+12,0 mm</text>
     <title
-       id="title151">FrontX</title>
+       id="title151">Schalter</title>
   </g>
   <g
-     id="Dimension001"
-     transform="matrix(1,0,0,-1,0.175,172.77524)">
+     id="Dimension003"
+     transform="translate(2.600000,162.600000) scale(1,-1)">
     <path
-       d="M 230,0 260.62675,-1.4019791e-4 260.62753,170.0001 l -60.16597,0.0239"
-       style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-       freecad:basepoint1="230.0 -0.0"
-       freecad:basepoint2="230.000778198 170.000244141"
-       freecad:dimpoint="260.626754011 -0.000140197908766"
-       id="path154"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       d="M 102.0 50.0 L 102.0 34.9889717102 L 108.0 34.9889717102 L 108.0 50.0"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+       freecad:basepoint1="102.0 50.0"
+       freecad:basepoint2="108.0 50.0"
+       freecad:dimpoint="102.0 34.9889717102"
+       id="path154" />
     <path
-       transform="matrix(1.2138295e-5,2.6666667,-2.6666667,1.2138295e-5,260.62675,-1.4019791e-4)"
+       transform="rotate(-0.0,102.0,34.9889717102) translate(102.0,34.9889717102) scale(1.06666666667,1.06666666667)"
        freecad:skip="1"
-       style="fill:#000000;stroke:none;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 0,0 4,1 V -1 Z"
-       id="path156"
-       inkscape:connector-curvature="0" />
+       fill="#000000"
+       stroke="none"
+       style="stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 0 0 L 4 1 L 4 -1 Z"
+       id="path156" />
     <path
-       transform="matrix(-1.2138276e-5,-2.6666667,2.6666667,-1.2138276e-5,260.62753,170.0001)"
+       transform="rotate(180.0,108.0,34.9889717102) translate(108.0,34.9889717102) scale(1.06666666667,1.06666666667)"
        freecad:skip="1"
-       style="fill:#000000;stroke:none;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 0,0 4,1 V -1 Z"
-       id="path158"
-       inkscape:connector-curvature="0" />
+       fill="#000000"
+       stroke="none"
+       style="stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 0 0 L 4 1 L 4 -1 Z"
+       id="path158" />
     <text
+       fill="#000000"
        font-size="6.0"
-       style="font-size:6px;font-family:Arial;text-align:center;text-anchor:middle;fill:#000000"
-       transform="matrix(4.5518606e-6,1,1,-4.5518606e-6,256.62714,85)"
+       style="text-anchor:middle;text-align:center;font-family:Arial"
+       transform="rotate(-0.0,105.0,38.9889717102) translate(105.0,38.9889717102) scale(1,-1) "
        freecad:skip="1"
-       id="text160">170,0 mm</text>
+       id="text160">
+6,0 mm</text>
     <title
-       id="title162">FrontY</title>
+       id="title162">Lautsprecher</title>
   </g>
   <g
      id="Circle014"
-     transform="matrix(1,0,0,-1,0.175,172.77524)">
+     transform="translate(2.600000,162.600000) scale(1,-1)">
     <circle
-       cx="15"
-       cy="155"
-       r="3"
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="15.0"
+       cy="145.0"
+       r="3.0"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"
        id="circle165" />
     <title
        id="title167">Circle014</title>
   </g>
   <g
-     id="Dimension002"
-     transform="matrix(1,0,0,-1,0.175,172.77524)">
-    <path
-       d="M 139,65 V 49.186008 h 12 V 65"
-       style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-       freecad:basepoint1="139.0 65.0"
-       freecad:basepoint2="151.0 65.0"
-       freecad:dimpoint="139.0 49.1860084534"
-       id="path170"
-       inkscape:connector-curvature="0" />
-    <path
-       transform="matrix(1.3333333,0,0,1.3333333,139,49.186008)"
-       freecad:skip="1"
-       style="fill:#000000;stroke:none;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 0,0 4,1 V -1 Z"
-       id="path172"
-       inkscape:connector-curvature="0" />
-    <path
-       transform="matrix(-1.3333333,0,0,-1.3333333,151,49.186008)"
-       freecad:skip="1"
-       style="fill:#000000;stroke:none;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 0,0 4,1 V -1 Z"
-       id="path174"
-       inkscape:connector-curvature="0" />
-    <text
-       font-size="6.0"
-       style="font-size:6px;font-family:Arial;text-align:center;text-anchor:middle;fill:#000000"
-       transform="matrix(1,0,0,-1,145,53.186008)"
-       freecad:skip="1"
-       id="text176">12,0 mm</text>
-    <title
-       id="title178">Schalter</title>
-  </g>
-  <g
-     id="Dimension003"
-     transform="matrix(1,0,0,-1,0.175,172.77524)">
-    <path
-       d="M 92,50 V 34.988972 h 6 V 50"
-       style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-       freecad:basepoint1="92.0 50.0"
-       freecad:basepoint2="98.0 50.0"
-       freecad:dimpoint="92.0 34.9889717102"
-       id="path181"
-       inkscape:connector-curvature="0" />
-    <path
-       transform="matrix(1.0666667,0,0,1.0666667,92,34.988972)"
-       freecad:skip="1"
-       style="fill:#000000;stroke:none;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 0,0 4,1 V -1 Z"
-       id="path183"
-       inkscape:connector-curvature="0" />
-    <path
-       transform="matrix(-1.0666667,0,0,-1.0666667,98,34.988972)"
-       freecad:skip="1"
-       style="fill:#000000;stroke:none;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 0,0 4,1 V -1 Z"
-       id="path185"
-       inkscape:connector-curvature="0" />
-    <text
-       font-size="6.0"
-       style="font-size:6px;font-family:Arial;text-align:center;text-anchor:middle;fill:#000000"
-       transform="matrix(1,0,0,-1,95,38.988972)"
-       freecad:skip="1"
-       id="text187">6,0 mm</text>
-    <title
-       id="title189">Lautsprecher</title>
-  </g>
-  <g
      id="Dimension004"
-     transform="matrix(1,0,0,-1,0.175,172.77524)">
+     transform="translate(2.600000,162.600000) scale(1,-1)">
     <path
-       d="m 104.18897,121.18897 v 5.69606 h 4 v -5.69606"
-       style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-       freecad:basepoint1="104.188970004 121.188970004"
-       freecad:basepoint2="108.188970004 121.188970004"
-       freecad:dimpoint="104.188970004 126.885025024"
-       id="path192"
-       inkscape:connector-curvature="0" />
+       d="M 114.188970004 121.188970004 L 114.188970004 126.885025024 L 118.188970004 126.885025024 L 118.188970004 121.188970004"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none"
+       freecad:basepoint1="114.188970004 121.188970004"
+       freecad:basepoint2="118.188970004 121.188970004"
+       freecad:dimpoint="114.188970004 126.885025024"
+       id="path170" />
     <path
-       transform="matrix(0.53333333,0,0,0.53333333,104.18897,126.88503)"
+       transform="rotate(-0.0,114.188970004,126.885025024) translate(114.188970004,126.885025024) scale(0.533333333333,0.533333333333)"
        freecad:skip="1"
-       style="fill:#000000;stroke:none;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 0,0 4,1 V -1 Z"
-       id="path194"
-       inkscape:connector-curvature="0" />
+       fill="#000000"
+       stroke="none"
+       style="stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 0 0 L 4 1 L 4 -1 Z"
+       id="path172" />
     <path
-       transform="matrix(-0.53333333,0,0,-0.53333333,108.18897,126.88503)"
+       transform="rotate(180.0,118.188970004,126.885025024) translate(118.188970004,126.885025024) scale(0.533333333333,0.533333333333)"
        freecad:skip="1"
-       style="fill:#000000;stroke:none;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 0,0 4,1 V -1 Z"
-       id="path196"
-       inkscape:connector-curvature="0" />
+       fill="#000000"
+       stroke="none"
+       style="stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 0 0 L 4 1 L 4 -1 Z"
+       id="path174" />
     <text
+       fill="#000000"
        font-size="6.0"
-       style="font-size:6px;font-family:Arial;text-align:center;text-anchor:middle;fill:#000000"
-       transform="matrix(1,0,0,-1,106.18897,130.88503)"
+       style="text-anchor:middle;text-align:center;font-family:Arial"
+       transform="rotate(-0.0,116.188970004,130.885025024) translate(116.188970004,130.885025024) scale(1,-1) "
        freecad:skip="1"
-       id="text198">4,0 mm</text>
+       id="text176">
+4,0 mm</text>
     <title
-       id="title200">Dimension004</title>
+       id="title178">Dimension004</title>
   </g>
   <g
      id="Gruppe002"
-     transform="matrix(1,0,0,-1,0.175,172.77524)">
+     transform="translate(2.600000,162.600000) scale(1,-1)">
     <title
-       id="title203">Verbinder Rückplatte</title>
+       id="title181">Verbinder Rückplatte</title>
   </g>
   <g
      id="Circle015"
-     transform="matrix(1,0,0,-1,0.175,172.77524)">
+     transform="translate(2.600000,162.600000) scale(1,-1)">
     <circle
-       cx="215"
-       cy="155"
-       r="3"
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle210" />
+       cx="245.0"
+       cy="145.0"
+       r="3.0"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"
+       id="circle184" />
     <title
-       id="title212">Circle015</title>
+       id="title186">Circle015</title>
   </g>
   <g
      id="Circle016"
-     transform="matrix(1,0,0,-1,0.175,172.77524)">
+     transform="translate(2.600000,162.600000) scale(1,-1)">
     <circle
-       cx="15"
-       cy="15"
-       r="3"
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle215" />
+       cx="15.0"
+       cy="15.0"
+       r="3.0"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"
+       id="circle189" />
     <title
-       id="title217">Circle016</title>
+       id="title191">Circle016</title>
   </g>
   <g
      id="Circle017"
-     transform="matrix(1,0,0,-1,0.175,172.77524)">
+     transform="translate(2.600000,162.600000) scale(1,-1)">
     <circle
-       cx="215"
-       cy="15"
-       r="3"
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle220" />
+       cx="245.0"
+       cy="15.0"
+       r="3.0"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"
+       id="circle194" />
     <title
-       id="title222">Circle017</title>
+       id="title196">Circle017</title>
   </g>
 </svg>
