@@ -1,16 +1,51 @@
-softuart.setup(9600, 5, 4);
-softuart.on("data", 1, function(data) print("lua handler called"); print(data) end);
+local dfplayer = {}, ...
 
-write=softuart.write
+local bit = require("bit")
 
-function sseq(seq)
+local VERSION = 0xFF
+local LENGTH = 0x06
+local FEEDBACK = 0x01
+
+function init_defaults()
+    init(5, 4, 16)
+end
+
+function init(tx_pin, rx_pin, busy_pin)
+    softuart.setup(9600, tx_pin, tx_pin);
+    softuart.on("data", 1, function(data) print("lua handler called"); print(data) end);
+end
+
+function print_table(table)
+    local output = "{"
+    for k,v in pairs(table) do
+        output = output .. " " .. k .. "= " .. v .. ", "
+    end
+    output = output .. "}"
+    print(output)
+end
+
+function dfplayer.calc_checksum(cmd, param1, param2)
+    checksum = -(VERSION + LENGTH + cmd + FEEDBACK + param1 + param2)
+    return bit.rshift(checksum, 8), bit.band(checksum, 0xFF)
+end
+
+function dfplayer.send_command(cmd, param1, param2)
+    sum1, sum2 = calc_checksum(cmd, param1, param2)
+    message={0x7E, VERSION, LENGTH, cmd, FEEDBACK, param1, param2, sum1, sum2, 0xEF}
+    send_seq(message)
+end
+
+function dfplayer.send_seq(seq)
     for _, s in pairs(seq) do
-        print(s);
-        write(0x7e);
+        softuart.write(s);
     end
 end
 
-sseq({0x7E, 0xFF, 0x06, 0x03, 00, 00, 0x01, 0xFE, 0xF7, 0xEF})
+function dfplayer.play()
+    send_command(0x03, 00, 00)
+end
 
 
+
+return dfplayer
 
