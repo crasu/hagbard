@@ -195,6 +195,14 @@ function dfplayer.disable_loop()
     dfplayer.send_command(0x11, 0, 0)
 end
 
+function dfplayer.query_track()
+    dfplayer.send_command(0x48, 0, 0)
+end
+
+function dfplayer.query_current_track()
+    dfplayer.send_command(0x4C, 0, 0)
+end
+
 function dfplayer.play_folder(folder)
     if folder > 10 or folder < 0 then
         print("Folder " .. folder .. " out of range")
