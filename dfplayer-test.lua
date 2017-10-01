@@ -1,4 +1,5 @@
 p = require("dfplayer")
 p.init_default()
+p.reset()
 p.set_volume(4)
-p.play(1)
+p.play_folder(1)

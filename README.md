@@ -9,3 +9,7 @@ This source includes a lua lib for [dsplayer](https://www.dfrobot.com/wiki/index
 # Split files
 
     mp3splt -t 2.00 -o 02/0@n ../some-mp3.mp3
+
+# Deploy
+
+    nodemcu-uploader --baud 115200 upload dfplayer.lua  dfplayer-test.lua 
