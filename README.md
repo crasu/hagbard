@@ -12,4 +12,4 @@ This source includes a lua lib for [dsplayer](https://www.dfrobot.com/wiki/index
 
 # Deploy
 
-    nodemcu-uploader --baud 115200 upload dfplayer.lua  dfplayer-test.lua 
+    ./lua/upload.sh

@@ -17,11 +17,6 @@ dfplayer.EQ_JAZZ = 3
 dfplayer.EQ_CLASSIC = 5
 dfplayer.EQ_BASE = 5
 
-dfplayer.PBM_REPEAT = 0
-dfplayer.PBM_FOLDER_REPEAT = 1
-dfplayer.PBM_SINGLE_REPEAT = 2
-dfplayer.PBM_RANDOM = 3
-
 dfplayer.SOURCE_U_DISK = 1
 dfplayer.SOURCE_SD = 2
 dfplayer.SOURCE_AUX = 3
@@ -69,13 +64,13 @@ function dfplayer.serial_hander(data)
     end
 end
 
-function dfplayer.init(tx_pin, rx_pin, busy_pin)
-    softuart.setup(9600, tx_pin, rx_pin);
-    softuart.on("data", string.char(0xef), dfplayer.serial_hander);
+function dfplayer.init(tx_pin, rx_pin)
+    softuart.setup(9600, tx_pin, rx_pin)
+    softuart.on("data", string.char(0xef), dfplayer.serial_hander)
 end
 
 function dfplayer.init_default()
-    dfplayer.init(4, 5, 16)
+    dfplayer.init(4, 5)
 end
 
 function dfplayer.split_number(number)
