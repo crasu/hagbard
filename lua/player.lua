@@ -13,12 +13,11 @@ function debounce (func)
     end
 end
 
-function make_key_entry(pin)
+function make_key_entry(pin, folder)
     local key_entry = {}
     key_entry.func = debounce(function()
-        print("key received at io index:")
-        print(pin)
-        dfp.play(pin)
+        print(string.format("key received: %q playing folder: %q", pin, folder))
+        dfp.play_folder(folder)
     end)
     key_entry.pin = pin
 
@@ -27,14 +26,14 @@ end
 
 
 PIN_TABLE = {
-    R1_YELLOW_PIN = make_key_entry(3),
-    R1_RED_PIN = make_key_entry(4),
-    R1_BLUE_PIN = make_key_entry(5),
-    R1_BLACK_PIN = make_key_entry(6),
-    R2_BLACK_PIN = make_key_entry(7),
-    R2_GREEN_PIN = make_key_entry(8),
-    R2_YELLOW_PIN = make_key_entry(12), -- pin has a hardware pulldown
-    R2_RED_PIN = make_key_entry(11)
+    R1_YELLOW_PIN = make_key_entry(3, 1),
+    R1_RED_PIN = make_key_entry(4, 2),
+    R1_BLUE_PIN = make_key_entry(5, 3),
+    R1_BLACK_PIN = make_key_entry(6,4),
+    R2_BLACK_PIN = make_key_entry(7, 5),
+    R2_GREEN_PIN = make_key_entry(8, 6),
+    R2_YELLOW_PIN = make_key_entry(12,7), -- pin has a hardware pulldown
+    R2_RED_PIN = make_key_entry(11,8)
 }
 
 dfp = require("dfplayer")
