@@ -48,7 +48,6 @@ function init()
     local DFP_RX_PIN = 5 -- 2
     dfp.init(DFP_TX_PIN, DFP_RX_PIN)
     dfp.reset()
-    dfp.set_volume(5)
 
     print("Setting up gpios")
     for name, entry in pairs(PIN_TABLE) do
