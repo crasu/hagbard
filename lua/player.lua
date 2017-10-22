@@ -31,8 +31,8 @@ PIN_TABLE = {
     R1_BLUE_PIN = make_key_entry(5, 2),
     R1_BLACK_PIN = make_key_entry(6, 3),
     R2_BLACK_PIN = make_key_entry(7, 4),
-    R2_GREEN_PIN = make_key_entry(8, 5),
-    R2_YELLOW_PIN = make_key_entry(12, 6), -- pin has a hardware pulldown
+    R2_GREEN_PIN = make_key_entry(8, 5),  -- pin has a hardware pulldown
+    R2_YELLOW_PIN = make_key_entry(12, 6),
     R2_RED_PIN = make_key_entry(11, 7) 
 }
 
