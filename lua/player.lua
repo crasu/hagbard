@@ -1,6 +1,6 @@
 function debounce (func)
     local last = 0
-    local delay = 500000 -- 50ms * 1000 as tmr.now() has μs resolution
+    local delay = 5000000 -- 5000ms * 1000 as tmr.now() has μs resolution
 
     return function (...)
         local now = tmr.now()
@@ -39,15 +39,11 @@ PIN_TABLE = {
 dfp = require("dfplayer")
 
 function init()
-    --[[ tmr.alarm(1, 10*60*1000, tmr.ALARM_SINGLE, function()
-        print("light sleep serial unstable ...")
-        wifi.sleeptype(wifi.LIGHT_SLEEP)
-    end)]]--
     print("Setting up dfplayer communication")
     local DFP_TX_PIN = 4 -- 1
     local DFP_RX_PIN = 5 -- 2
     dfp.init(DFP_TX_PIN, DFP_RX_PIN)
-    dfp.set_volume(15)
+    dfp.set_volume(20)
 
     print("Setting up gpios")
     for name, entry in pairs(PIN_TABLE) do
@@ -61,6 +57,9 @@ function init()
 
         gpio.trig(entry.pin, "both", entry.func)
     end
+
+    wifi.setmode(wifi.NULLMODE)
+    dfp.play_folder(2)
 end
 
 init()
