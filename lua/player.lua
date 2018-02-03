@@ -1,6 +1,6 @@
 function debounce (func)
     local last = 0
-    local delay = 5000000 -- 5000ms * 1000 as tmr.now() has μs resolution
+    local delay = 1000000 -- 1000ms * 1000 as tmr.now() has μs resolution
 
     return function (...)
         local now = tmr.now()
@@ -13,29 +13,46 @@ function debounce (func)
     end
 end
 
+function button_pressed(pin, folder)
+    print(string.format("key received: %q for folder: %q", pin, folder))
+    print("currently playing " .. currently_playing)
+
+    if currently_playing == folder then
+        print("Playing next track")
+        dfp.next()
+    else
+        print("Playing folder")
+        dfp.play_folder(folder)
+    end
+
+    currently_playing = folder
+end
+
 function make_key_entry(pin, folder)
     local key_entry = {}
-    key_entry.func = debounce(function()
-        print(string.format("key received: %q playing folder: %q", pin, folder))
-        dfp.play_folder(folder)
+    key_entry.func = debounce(function ()
+        button_pressed(pin, folder)
     end)
+
     key_entry.pin = pin
 
     return key_entry
 end
 
-
-PIN_TABLE = {
- --   R1_YELLOW_PIN = make_key_entry(3, 1),
-    R1_RED_PIN = make_key_entry(4, 1), 
-    R1_BLUE_PIN = make_key_entry(5, 2),
-    R1_BLACK_PIN = make_key_entry(6, 3),
-    R2_BLACK_PIN = make_key_entry(7, 4),
-    R2_GREEN_PIN = make_key_entry(8, 5),  -- pin has a hardware pulldown
-    R2_YELLOW_PIN = make_key_entry(12, 6),
-    R2_RED_PIN = make_key_entry(11, 7) 
+local PIN_TABLE = {
+    R1_YELLOW_PIN = make_key_entry(3, 1),
+    R1_RED_PIN = make_key_entry(4, 2),
+    R1_BLUE_PIN = make_key_entry(5, 3),
+    R1_BLACK_PIN = make_key_entry(6, 4),
+    R2_BLACK_PIN = make_key_entry(7, 5),
+    R2_GREEN_PIN = make_key_entry(8, 6),  -- pin has a hardware pulldown
+    R2_YELLOW_PIN = make_key_entry(12, 7),
+    R2_RED_PIN = make_key_entry(11, 8)
 }
 
+DEFAULT_FOLDER = 2
+
+currently_playing = DEFAULT_FOLDER
 dfp = require("dfplayer")
 
 function init()
@@ -59,7 +76,7 @@ function init()
     end
 
     wifi.setmode(wifi.NULLMODE)
-    dfp.play_folder(2)
+    dfp.play_folder(DEFAULT_FOLDER)
 end
 
 init()
